@@ -379,7 +379,7 @@ section .title::after{
 .skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .react::before{
+.skills-content .right .rct::before{
     width: 80%;
 }
 .skills-content .right .sql::before{
