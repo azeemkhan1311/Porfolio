@@ -364,7 +364,7 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.skills-content .right .Python::before{
+.skills-content .right .py::before{
     width: 90%;
 }
 .skills-content .right .django::before{
@@ -379,7 +379,7 @@ section .title::after{
 .skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .rct::before{
+.skills-content .right .react:before{
     width: 80%;
 }
 .skills-content .right .sql::before{
