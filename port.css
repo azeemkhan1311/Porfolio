@@ -385,7 +385,7 @@ section .title::after{
 .skills-content .right .sql::before{
     width: 80%;
 }
-.skills-content .right .figma::before{
+.skills-content .right .fig::before{
     width: 80%;
 }
 .skills-content .right .git:before{
